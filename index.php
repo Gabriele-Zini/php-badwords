@@ -21,6 +21,7 @@ $censored = $_GET['censored'];
 
         <label for="censored">inserisci la parola da censurare</label>
         <input type="text" id="censored" name="censored">
+        <button type="submit">invia</button>
     </form>
 
 </body>
