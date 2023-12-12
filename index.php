@@ -1,6 +1,6 @@
 <?php
-$paragraph = trim($_GET['paragraph']);
-$censored = trim($_GET['censored']);
+$paragraph = trim('paragraph');
+$censored = trim('censored');
 ?>
 
 <!DOCTYPE html>
